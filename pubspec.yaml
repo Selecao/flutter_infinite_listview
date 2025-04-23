@@ -1,11 +1,11 @@
 name: infinite_listview
 description: ListView with items that can be scrolled infinitely in both directions.
-version: 1.1.0
+version: 1.1.1
 homepage: https://github.com/fluttercommunity/flutter_infinite_listview
 maintainer: Simon Lightfoot (@slightfoot)
 
 environment:
-  sdk: '>=2.12.0 <3.0.0'
+  sdk: '>=3.7.2 <4.0.0'
 
 dependencies:
   flutter:
